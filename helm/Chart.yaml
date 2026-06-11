@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-card-terminal-administration
+description: "BIAN Service Domain: Card Terminal Administration (Administer pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Card Terminal"
+  bian/control-record: "Card Terminal Administrative Plan"
